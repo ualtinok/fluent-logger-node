@@ -31,7 +31,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "msgpack-lite": "*"
+    "@msgpack/msgpack": "^1.12.1"
   },
   "devDependencies": {
     "async": "*",
